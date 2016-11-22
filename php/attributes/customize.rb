@@ -11,6 +11,6 @@
 #  end
 #end
 
-execute 'chmod' do
-  command 'chmod -R 755 /srv/www/php/current/'
-end
+#execute 'chmod' do
+#  command 'chmod -R 755 /srv/www/php/current/'
+#end
